@@ -9,4 +9,9 @@ npm install
 
 sh install.sh
 
+apt-get install screen -y
+screen
+
+
+
 node index.js
